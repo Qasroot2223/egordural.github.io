@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>���� �������</title>
+<style>
+body { background: #FF1493 ; color: ; }
+</style>
+</head>
+<body>
+<h1>���� �������</h1>
+<a href="vladik.html"><marquee><img src= "jk.jpg" width= "270" height="200"></marquee></a>
+<a href="vladik.html"><marquee direction="up" > <img src= "jk.jpg" width= "270" height="200"></marquee></a>
+<a href="vladik.html"> <marquee direction="down" > <img src= "jk.jpg" width= "270" height="200"></marquee></a>
+<a href="vladik.html"><marquee direction="right" > <img src= "jk.jpg" width= "270" height="200"></marquee></a>
+
+</body>
+</html/>
+��� �� ������ ��������
+<html>
+<head>
+<title>�����?</title>
+</head>
+<body>
+<h1>�� �������� �������?</h1>
+<a href="index.html">���</a>
+<p><a href="POSHEL NAHUY UEBOK.html">��</a></p>
+</body>
+</html/>
+��� �� 3 ��������
+<html>
+<head>
+<title>��ب� ����� Ө���!</title>
+</head>
+<body>
+��� ����� ����� ������ � ���� ���� ���� � ������ ���� ������ ����� ������ ����� ���� ���� ����� ����� �������� ������
+</body>
+</html/>
